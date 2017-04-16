@@ -1,18 +1,13 @@
 # track
-Where the supervision tracking templates and forms are developed.  
+This repository is where the supervision tracking templates and forms are developed. Since these are housed on iAuditor software, and that software is proprietary to SafetyCulture (not TrainABA), there is not much to house here on our own. We suggest that users who wish to share templates will upload their templates to the iAuditor Public Library. That is how TrainABA uploaded the templates.
 
-As of 2015, TrainABA tracking templates lived on iAuditor, for the reasons below:
+History: As of 2015, TrainABA tracking templates lived on iAuditor, for the reasons below:
 
 Designed for field assessments in safety and healthcare
-
 High security
-
 Free to use & download
-
 Shared PDFs easily
-
 Highly customizable templates (TrainABA makes started templates for you to use/modify/share)
-
 Worked with mobile and desktop
 
 Company had a profit model for sustainability
